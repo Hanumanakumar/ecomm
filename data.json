@@ -1,0 +1,101 @@
+{
+	"products":[
+{
+	"name":"Redmi 4A",
+	"Price":"5999/-",
+	"image":"images/redmi4a.jpeg"
+},
+{
+	"name":"Motorola e2",
+	"Price":"4999/-",
+	"image":"images/motoe2.jpeg"
+},
+{
+	"name":"Motorola e2",
+	"Price":"4999/-",
+	"image":"images/motoe2.jpeg"
+},
+{
+	"name":"Motorola e2",
+	"Price":"4999/-",
+	"image":"images/motoe2.jpeg"
+},
+{
+	"name":"Motorola e2",
+	"Price":"4999/-",
+	"image":"images/motoe2.jpeg"
+},
+{
+	"name":"Motorola e2",
+	"Price":"4999/-",
+	"image":"images/motoe2.jpeg"
+},
+{
+	"name":"Motorola e2",
+	"Price":"4999/-",
+	"image":"images/motoe2.jpeg"
+}
+	],
+
+	"shirts":[
+	{
+	"image":"images/polo.jpeg",
+	"brand":"polo",
+	"price":"500"
+},
+{
+	"image":"images/linen.jpeg",
+	"brand":"linen",
+	"price":"500"
+},
+{
+	"image":"images/wrangler.jpeg",
+	"brand":"wrangler",
+	"price":"500"
+},
+
+{
+	"image":"images/pepe.jpg",
+	"brand":"pepe",
+	"price":"500"
+},
+
+{
+	"image":"images/pepe.jpg",
+	"brand":"pepe",
+	"price":"500"
+},
+
+{
+	"image":"images/pepe.jpg",
+	"brand":"pepe",
+	"price":"500"
+}
+
+],
+
+"kids":[
+
+{
+"image":"images/kid1.jpg",
+	"brand":"pepe",
+	"price":"500"
+},
+{
+"image":"images/kid1.jpg",
+	"brand":"pepe",
+	"price":"500"
+},
+
+{
+"image":"images/kid1.jpg",
+	"brand":"pepe",
+	"price":"500"
+},
+{
+"image":"images/kid1.jpg",
+	"brand":"pepe",
+	"price":"500"
+}
+]
+}
